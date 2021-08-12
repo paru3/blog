@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[パルパルゆってる〜笑]]></title>
+  <link href="http://paru3.github.io/atom.xml" rel="self"/>
+  <link href="http://paru3.github.io/"/>
+  <updated>2021-08-12T17:58:30+09:00</updated>
+  <id>http://paru3.github.io/</id>
+  <author>
+    <name><![CDATA[paru3]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[そういえば]]></title>
+    <link href="http://paru3.github.io/blog/2021/08/12/2nd-post/"/>
+    <updated>2021-08-12T17:55:08+09:00</updated>
+    <id>http://paru3.github.io/blog/2021/08/12/2nd-post</id>
+    <content type="html"><![CDATA[<p>すぐに戻ってきたよ！</p>
+
+<p>忘れ物を取りに来ただけ！</p>
+
+<p>またね！！</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[こんにちは！Paruです！]]></title>
+    <link href="http://paru3.github.io/blog/2021/08/12/first-post/"/>
+    <updated>2021-08-12T17:44:00+09:00</updated>
+    <id>http://paru3.github.io/blog/2021/08/12/first-post</id>
+    <content type="html"><![CDATA[<p>Paruには友達がいっぱいいて、いつも芝生で寝たり、ポカポカと叩きあったりして、みんな笑顔で幸せに暮らしているんだよ。</p>
+
+<p>もう少ししたら友達がここにやってくるからその時まで楽しみに待っていてね！</p>
+
+<h3>自己紹介するよ</h3>
+
+<p><img src="http://paru3.github.io/images/IMG_1636.jpg" alt="alt octopress" /></p>
+
+<p>名前はParu！　この世界ではおじさんと子供しかいないんだよ！　僕は子供だよ！</p>
+
+<p>いつか大きくなったら<strong>魔法使い</strong>になりたいんだ！</p>
+
+<p>今は魔法使いの格好をしているだけだけど、少しずつ魔法を覚えていくんだ！</p>
+
+<p>早く友達に見せたいな！　ワクワク！</p>
+
+<p>それじゃあまたね！！</p>
+]]></content>
+  </entry>
+  
+</feed>
